@@ -1,1 +1,1 @@
-# react-file-structure
+# React file structure
